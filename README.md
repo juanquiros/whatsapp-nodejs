@@ -1,12 +1,12 @@
 # whatsapp-nodejs
 
 # install
-npm i express moment exceljs --save;
-npm i whatsapp-web.js qrcode-terminal --save;
-npm i ora chalk --save;
-npm i mime-db --save;
+- [x] npm i express moment exceljs --save
+- [x] npm i whatsapp-web.js qrcode-terminal --save
+- [x] npm i ora chalk --save
+- [x] npm i mime-db --save
 
 
 # use
 
-npm start
+- [x] npm start
